@@ -1,9 +1,8 @@
 ### Hi 👋, I'm Shivendra Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=600&lines=Java+Backend+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=false&width=600&lines=Java+Backend+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 Aspiring Java Backend developer with a strong foundation in console-based projects. Proficient in Java, Spring Boot, Hibernate, and Maven.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/shivendra-kumar-458a6142/) 
