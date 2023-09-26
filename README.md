@@ -4,7 +4,7 @@
 
 Aspiring Java Backend developer with a strong foundation in console-based projects. Proficient in Java, Spring Boot, Hibernate, and Maven.
 
-## 🌐 Socials:
+# 🌐 Socials:
 - 👨‍💻 All of my projects are available at [Portfolio](https://shivendra-somr.github.io/)
 
 
