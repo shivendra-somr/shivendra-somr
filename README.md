@@ -1,9 +1,8 @@
-### Hi 👋
-### Shivendra Kumar
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Backend+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+### Hi 👋, I'm Shivendra Kumar
 
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=435&lines=Java+Backend+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
 Aspiring Java Backend developer with a strong foundation in console-based projects. Proficient in Java, Spring Boot, Hibernate, and Maven.
 
 
