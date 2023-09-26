@@ -7,6 +7,8 @@ Aspiring Java Backend developer with a strong foundation in console-based projec
 ## 🌐 Socials:
 - 👨‍💻 All of my projects are available at [Portfolio](https://shivendra-somr.github.io/)
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivendra-kumar-458a6142/) 
 
 # 💻 Tech Stack:
